@@ -4,10 +4,11 @@ My name is _Caran D’Arche_. I am a pencil, and I was born in **Geneva**. A few
 I graduated top of my class from the Faber-Castell Architecture University, and interned as draughtsperson at Kohinoor Hardtmuth.
 
 ## What do I do? ##
-[Google Home](https://google.com)
-My professional areas of interest include drawing, sketching, and designing. I specialise in drawing space-rovers and drone-probes.
 
+My professional areas of interest include drawing, sketching, and designing. I specialise in drawing space-rovers and drone-probes.
 At my current company, I was instrumental in implementing a Sharp-and-Clear-Lines policy that reduced smudges by 43% and raised designer satisfaction by more than 78 basis points.
+
+[Google Home](https://google.com)
 
 | Date | Company |
 | ... | ... |
