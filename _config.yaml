@@ -7,3 +7,7 @@ author: caran@gmail.com
 markdown: kramdown
 
 theme: minima
+
+header_page: 
+- index.md
+- anaother_page.md
